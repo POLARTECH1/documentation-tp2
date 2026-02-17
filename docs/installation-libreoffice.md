@@ -127,9 +127,6 @@ Verifier les elements suivants :
 2. Les modules `Writer`,  `Calc`,  `Impress`, `Math`, `Draw` et `Base` sont accessibles ainsi que l'application `LibreOffice`
 3. La version installée est visible dans **Aide > A propos** dans LibreOffice.
 
-:::info Information complémentaire
-Vous pouvez épingler LibreOffice a la barre des taches pour un acces rapide.
-:::
 
 ## 6. Dépannage
 
