@@ -150,8 +150,8 @@ En cas de probleme persistant, desinstaller LibreOffice puis refaire une install
 recente.
 :::
 
-## 7. Metadonnees
+## 7. Auteur
 
 - Version du document : 1.1
 - Derniere mise a jour : 2026-02-15
-- Public cible : interne (TI)
+- Auteur : Laine Valery Cedric - (Fouad-Boudali)
